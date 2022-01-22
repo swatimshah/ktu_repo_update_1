@@ -10,3 +10,4 @@ Validation Confusion Matrix
 
 Training accuracy 96%
 Validation accuracy 93%
+Online accuracy 61%
