@@ -7,3 +7,6 @@ Validation Confusion Matrix
  Online Confususion Matrix
  [[4 3]
  [2 4]]
+
+Training accuracy 96%
+Validation accuracy 93%
